@@ -51,5 +51,3 @@ Esto generará un informe y gráficos basados en los datos de Google Analytics p
 
 ¡Disfruta utilizando este script para generar informes y gráficos a partir de los datos de Google Analytics!
 ```
-
-Este archivo `README.md` proporciona una descripción general de tu código, los requisitos necesarios, cómo utilizarlo y algunos problemas conocidos. Puedes personalizarlo y agregar más detalles según sea necesario para tu proyecto.
